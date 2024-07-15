@@ -1,0 +1,61 @@
+// Export pages
+export '/pages/auth_2_forgot_password/auth2_forgot_password_widget.dart'
+    show Auth2ForgotPasswordWidget;
+export '/pages/user/auth_2_profile/auth2_profile_widget.dart'
+    show Auth2ProfileWidget;
+export '/pages/estabelecimento/categoria/home_page_garcon/home_page_garcon_widget.dart'
+    show HomePageGarconWidget;
+export '/pages/estabelecimento/pedido/pedidos_page/pedidos_page_widget.dart'
+    show PedidosPageWidget;
+export '/pages/estabelecimento/pedido/detalhes_pedido/detalhes_pedido_widget.dart'
+    show DetalhesPedidoWidget;
+export '/pages/estabelecimento/produto/produtos_estabelecimento/produtos_estabelecimento_widget.dart'
+    show ProdutosEstabelecimentoWidget;
+export '/pages/home_page_admin/home_page_admin_widget.dart'
+    show HomePageAdminWidget;
+export '/pages/admin/estabelecimentos/estabelecimentos_widget.dart'
+    show EstabelecimentosWidget;
+export '/pages/roteamento/roteamento_widget.dart' show RoteamentoWidget;
+export '/pages/estabelecimento/garcom/categoria_produto/categoria_produto_widget.dart'
+    show CategoriaProdutoWidget;
+export '/pages/user/login/login_widget.dart' show LoginWidget;
+export '/pages/estabelecimento/home_estabelecimento/home_estabelecimento_widget.dart'
+    show HomeEstabelecimentoWidget;
+export '/pages/estabelecimento/produto/criar_produto/criar_produto_widget.dart'
+    show CriarProdutoWidget;
+export '/pages/estabelecimento/categoria/criar_categoria/criar_categoria_widget.dart'
+    show CriarCategoriaWidget;
+export '/pages/estabelecimento/garcom/criar_garcon/criar_garcon_widget.dart'
+    show CriarGarconWidget;
+export '/pages/estabelecimento/categoria/categorias_estabelecimento/categorias_estabelecimento_widget.dart'
+    show CategoriasEstabelecimentoWidget;
+export '/pages/estabelecimento/garcom/garcons/garcons_widget.dart'
+    show GarconsWidget;
+export '/pages/estabelecimento/mesa/criar_mesa/criar_mesa_widget.dart'
+    show CriarMesaWidget;
+export '/pages/editar_produto/editar_produto_widget.dart'
+    show EditarProdutoWidget;
+export '/pages/estabelecimento/produto/pagina_produto/pagina_produto_widget.dart'
+    show PaginaProdutoWidget;
+export '/pages/estabelecimento/categoria/editar_categoria/editar_categoria_widget.dart'
+    show EditarCategoriaWidget;
+export '/pages/estabelecimento/pedido/pedido_mesa/pedido_mesa_widget.dart'
+    show PedidoMesaWidget;
+export '/pages/estabelecimento/pedido/pedidos_garcom/pedidos_garcom_widget.dart'
+    show PedidosGarcomWidget;
+export '/pages/editar_perfil_garcom/editar_perfil_garcom_widget.dart'
+    show EditarPerfilGarcomWidget;
+export '/pages/editar_estabelecimento/editar_estabelecimento_widget.dart'
+    show EditarEstabelecimentoWidget;
+export '/pages/estabelecimento/pedido/editar_pedido/editar_pedido_widget.dart'
+    show EditarPedidoWidget;
+export '/pages/estabelecimento/mesa/page_mesa/page_mesa_widget.dart'
+    show PageMesaWidget;
+export '/pages/estabelecimento/mesa/qr/cardapio_q_r/cardapio_q_r_widget.dart'
+    show CardapioQRWidget;
+export '/pages/estabelecimento/mesa/qr/carrinho_q_r/carrinho_q_r_widget.dart'
+    show CarrinhoQRWidget;
+export '/pages/estabelecimento/mesa/editar_mesa/editar_mesa_widget.dart'
+    show EditarMesaWidget;
+export '/pages/estabelecimento/categoria/home_page_add_produto/home_page_add_produto_widget.dart'
+    show HomePageAddProdutoWidget;

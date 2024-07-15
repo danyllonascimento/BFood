@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "701956644196",
+    "project_id": "food-mesa-f122za",
+    "storage_bucket": "food-mesa-f122za.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701956644196:android:deddeb2062fbd174a96e71",
+        "android_client_info": {
+          "package_name": "com.withnocode.io.foodmesa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701956644196-bhm061u9qrc6e18p6qqona0k38shc1p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.withnocode.io.foodmesa.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "701956644196-v72gf6tideuejh6chk19elj8q1gco9o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9PXp3WEwK0YSEugi4AaRhyWggjrxMLS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701956644196-v72gf6tideuejh6chk19elj8q1gco9o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701956644196-b7bi8f3coand4fed29tmh5vqknqvbp5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.withnocode.io.foodmesa.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
